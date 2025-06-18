@@ -1,0 +1,6 @@
+pip install pygame
+pip install gif_pygame
+pip install pyinstaller
+pip install numpy
+pip install numba
+pip install keyboard
